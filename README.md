@@ -20,7 +20,7 @@ Construir um aplicativo web simples que analisa dados de veículos e mostra visu
 ### **3. Deploy na Nuvem**
 - Aplicativo implantado no Render, tornando o sistema acessível publicamente.
 - Link de acesso:
-  **https://projetosprint5-1-9nm2.onrender.com/**
+  **https://vehicle-insights-webapp.onrender.com/**
 
 ### **4. Dados Utilizados**
 O projeto oferece um dataset de anúncios de carros, mas você pode usar qualquer conjunto de dados que preferir — o foco aqui não é análise profunda, e sim montar o fluxo completo: *dados → app → deploy*.
